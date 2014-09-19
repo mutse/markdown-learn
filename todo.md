@@ -1,9 +1,9 @@
 # TODO
 
 ## Todo List
-- [ ]List Item1
-- [x]List Item2
-- [ ]List Item3
+- [ ] List Item1
+- [x] List Item2
+- [ ] List Item3
 
 ## Todo List
 - []List Item1
